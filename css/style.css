@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+#header{
+	width: 1250px;
+	height: auto ;
+	background:#6467e7;
+	
+	margin:0 auto 0 auto;
+	display:table;
+	
+}
+#content{
+	width: 1270px;
+	height: auto;
+	background:#6467e7;
+	padding:10px 15px 10px 15px;
+	
+	
+	
+	margin:30 auto 30 auto;
+	display:table;
+}
+#content h1,.sayfabanner{
+	margin:0 auto 15px auto;
+	display:table;
+	height:auto;
+}
+#content .yazialani p{
+	font-size:20px;
+}
+
+#footer{
+
+	margin:15 auto 15 auto;
+	display:table;
+}
+.websitesilogo{
+	margin:0 auto 0 auto;
+	display:table;
+	width:1300;
+	height:200;
+}
+.menu{
+	margin:10px auto 10px auto;
+	display:table;
+	
+}
+.menu li{
+	float:left;
+	list-style-type:none;
+	margin-right:26px;
+	
+}
+.menu li a{
+	color:#000;
+	font-size:18px;
+	text-decoration:none;
+}
+.menu li a:hover{
+	color:#f00;
+	border:1px solid #f00; 
+}
